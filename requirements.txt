@@ -1,0 +1,6 @@
+requests
+psutil
+cryptography
+setuptools
+Cython
+astor
