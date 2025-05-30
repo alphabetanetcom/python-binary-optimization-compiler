@@ -11,8 +11,8 @@
 [![Python Compiler](https://img.shields.io/badge/python-compiler-blue.svg)](#3-main-functions-of-the-script)
 [![Optimize Python Code](https://img.shields.io/badge/optimize-python--code-green.svg)](#3-main-functions-of-the-script)
 
-*Version: 1.3*  
-© 2024 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - Alpha Beta Network. All Rights Reserved.
+*Version: 1.6*  
+© 2025 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - Alpha Beta Network. All Rights Reserved.
 
 ---
 
@@ -308,7 +308,7 @@ Stay connected to receive updates, provide feedback, and get early access to ext
 
 ---
 
-© 2024 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - **Alpha Beta Network**. All Rights Reserved.
+© 2025 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - **Alpha Beta Network**. All Rights Reserved.
 
 ---
 
@@ -341,6 +341,6 @@ This script represents a robust solution for those looking to **optimize Python 
 
 ---
 
-© 2024 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - **Alpha Beta Network**. All Rights Reserved.
+© 2025 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - **Alpha Beta Network**. All Rights Reserved.
 
 ---
